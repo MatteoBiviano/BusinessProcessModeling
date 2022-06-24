@@ -1,1 +1,8 @@
-# BusinessProcessModeling
+# P20: Permesso
+Si consideri lo scenario di un cittadino che vuole richiedere un permesso di parcheggio in una zona a traffico limitato, tenendo presente che, a seconda che si tratti della prima richiesta di rilascio del permesso o solo di un rinnovo, sia i documenti richiesti che l’iter burocratico saranno diversi. <br>
+Il cittadino contatta l’ufficio preposto per chiedere informazioni e ottiene una lista dei moduli da compilare, dei bollettini da pagare e dei documenti da presentare.
+In caso di rinnovo, i documenti includono anche la copia del permesso in possesso del cittadino e dopo che il cittadino ha consegnato i documenti, l’ufficio li analizza e può decidere di rinnovare il permesso, di revocarlo oppure di richiedere documenti mancanti o compilati in modo errato.
+Se si tratta del rilascio di un nuovo permesso, i documenti includono anche il certificato di residenza nella zona a traffico limitato o una dichiarazione dei motivi per i quali il permesso viene richiesto: una volta che il cittadino ha consegnato i documenti, l’ufficio li analizza e può decidere di rilasciare il permesso, di rifiutarlo oppure di richiedere documenti mancanti o compilati in modo errato.
+La consegna dei documenti e la loro analisi possono ripetersi un numero imprecisato di volte, fino a quando il permesso viene assegnato o rifiutato/revocato. 
+Progettare opportuni processi che rispecchino fedelmente lo scenario sopra descritto e siano compatibili.
+Modificare i processi in modo che il cittadino possa decidere di annullare la richiesta ogni volta che l’ufficio richiede l’invio di documenti mancanti o compilati in modo errato.
